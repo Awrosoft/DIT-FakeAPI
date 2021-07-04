@@ -30,5 +30,17 @@
       "gender": "Male",
       "avatar": "https://tonytiling.ie/wp-content/uploads/2020/10/david.png"
     }
+  ],
+  "users":[
+    {"id":"001@dit.krd"},
+    {"id":"002@dit.krd"},
+    {"id":"003@dit.krd"},
+    {"id":"004@dit.krd"},
+    {"id":"005@dit.krd"},
+    {"id":"006@dit.krd"},
+    {"id":"007@dit.krd"},
+    {"id":"008@dit.krd"},
+    {"id":"009@dit.krd"},
+    {"id":"010@dit.krd"}
   ]
 }
