@@ -32,15 +32,15 @@
     }
   ],
   "Users":[
-    {"username":"001@dit.krd"},
-    {"username":"002@dit.krd"},
-    {"username":"003@dit.krd"},
-    {"username":"004@dit.krd"},
-    {"username":"005@dit.krd"},
-    {"username":"006@dit.krd"},
-    {"username":"007@dit.krd"},
-    {"username":"008@dit.krd"},
-    {"username":"009@dit.krd"},
-    {"username":"010@dit.krd"}
+    {"id":"001@dit.krd"},
+    {"id":"002@dit.krd"},
+    {"id":"003@dit.krd"},
+    {"id":"004@dit.krd"},
+    {"id":"005@dit.krd"},
+    {"id":"006@dit.krd"},
+    {"id":"007@dit.krd"},
+    {"id":"008@dit.krd"},
+    {"id":"009@dit.krd"},
+    {"id":"010@dit.krd"}
   ]
 }
