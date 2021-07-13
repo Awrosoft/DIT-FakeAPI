@@ -1,7 +1,7 @@
 {
   "search": [
     {
-      "id": "3840204266817",
+      "id": 3840204266817,
       "employeeUPN": "test_upn_1",
       "firstName": "دلێر",
       "secondName": "محمد",
@@ -11,7 +11,7 @@
       "avatar": "https://www.mobihealthnews.com/sites/default/files/wp-content/uploads/2013/05/Dave-Dickinson-Headshot.jpg"
     },
     {
-      "id": "3840204266812",
+      "id": 3840204266812,
       "employeeUPN": "test_upn_2",
       "firstName": "بروسک",
       "secondName": "عبداللە",
@@ -21,7 +21,7 @@
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr2UOkvnBdNDy3ce3VxKY-8PsDKgvc3rlR6gCcHIjxhlm2kvs&s"
     },
     {
-      "id": "38402004266813",
+      "id": 38402004266813,
       "employeeUPN": "test_upn_3",
       "firstName": "رێباز",
       "secondName": "قادر",
@@ -31,7 +31,7 @@
       "avatar": "https://tonytiling.ie/wp-content/uploads/2020/10/david.png"
     },
     {
-      "id": "3840204266814",
+      "id": 3840204266814,
       "employeeUPN": "test_upn_3",
       "firstName": "گۆدار",
       "secondName": "جادر",
