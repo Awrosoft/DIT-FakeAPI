@@ -7,17 +7,17 @@
       "secondName": "محمد",
       "thirdName": "عبدللە",
       "birthDate": "1990/04/04",
-      "gender": "Male",
+      "gender": "نێر",
       "avatar": "https://www.mobihealthnews.com/sites/default/files/wp-content/uploads/2013/05/Dave-Dickinson-Headshot.jpg"
     },
     {
       "id": "3840204266812",
       "employeeUPN": "test_upn_2",
-      "firstName": "شهلا",
+      "firstName": "بروسک",
       "secondName": "عبداللە",
       "thirdName": "کەریم",
       "birthDate": "1993/06/02",
-      "gender": "Female",
+      "gender": "نێر",
       "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr2UOkvnBdNDy3ce3VxKY-8PsDKgvc3rlR6gCcHIjxhlm2kvs&s"
     },
     {
@@ -27,7 +27,7 @@
       "secondName": "قادر",
       "thirdName": "کەریم",
       "birthDate": "1989/08/17",
-      "gender": "Male",
+      "gender": "نێر",
       "avatar": "https://tonytiling.ie/wp-content/uploads/2020/10/david.png"
     },
     {
@@ -37,7 +37,7 @@
       "secondName": "جادر",
       "thirdName": "ئیبراهیم",
       "birthDate": "1983/08/17",
-      "gender": "Male",
+      "gender": "نێر",
       "avatar": "https://superman-academy.com/api/findseat/images/sample_avatar2.jpg"
     }
   ],
